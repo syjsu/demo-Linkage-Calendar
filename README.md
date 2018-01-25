@@ -1,6 +1,12 @@
 Linkage calendar
 ---
+更新日志
+---
+- 解决了日期与月份的问题
+![image](http://m.qpic.cn/psb?/V12ZEwXZ3XJLHy/V8UlAqMrGWG1117sZNN4KdH9PnHxS2hGWmB0YFWCVw0!/b/dJIAAAAAAAAA&bo=NwS1ATcEtQEDByI!&rf=viewer_4)
 
+
+之前的月份与日期不对应截图
 ![image](http://m.qpic.cn/psb?/V12ZEwXZ3XJLHy/xIC9aYsi7q7WktA.D.6Hvrr7Hb2NO2ji8DIWdRb3nBQ!/b/dJEAAAAAAAAA&bo=CwRvAQAAAAADB0M!&rf=viewer_4)
 
 项目简介
