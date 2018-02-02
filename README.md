@@ -2,8 +2,9 @@ Linkage calendar
 ---
 更新日志
 ---
-<a href='https://github.com/liuzhaoxu1996/Project-Linkage-Calendar/calendar.html'>联动日历实现网址</a>
-
+<h2>
+<a href='https://liuzhaoxu1996.github.io/Project-Linkage-Calendar/'>联动日历线上查阅</a>
+</h2>
 
 - 解决了日期与月份的问题
 ![image](http://m.qpic.cn/psb?/V12ZEwXZ3XJLHy/V8UlAqMrGWG1117sZNN4KdH9PnHxS2hGWmB0YFWCVw0!/b/dJIAAAAAAAAA&bo=NwS1ATcEtQEDByI!&rf=viewer_4)
