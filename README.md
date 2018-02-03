@@ -1,7 +1,7 @@
 Linkage calendar
 ---
 <h2>
-<a href='https://liuzhaoxu1996.github.io/Project-Linkage-Calendar/calendar.html'>线上查阅</a>
+<a href='https://liuzhaoxu1996.github.io/demo-Linkage-Calendar/calendar.html'>线上查阅</a>
 </h2>
 
 更新日志
